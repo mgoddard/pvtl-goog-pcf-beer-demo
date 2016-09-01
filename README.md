@@ -20,8 +20,9 @@ Not sure.  We need a demo in short order, so this could be too broad a task to t
 We may elect to narrow our focus somewhat.
 
 ## Visual Description of the Process
-TODO: link to the some images here ...
+1. Using the app, user snaps a photo of the beer taps
 ![Step 1](./images/01_Several_Beer_Taps.jpg)
+
 ![Step 2](./images/02_Individual_Taps_Recognized.jpg)
 ![Step 3](./images/03_Single_Beer_Logo.png)
 ![Step 4](./images/04_Image_Search.png)
