@@ -23,7 +23,15 @@ We may elect to narrow our focus somewhat.
 1. Using the app, user snaps a photo of the beer taps
 ![Step 1](./images/01_Several_Beer_Taps.jpg)
 
+1. Computer based image recognition finds the bounds of each of the beer taps, so they
+can be extracted and searched individually
 ![Step 2](./images/02_Individual_Taps_Recognized.jpg)
-![Step 3](./images/03_Single_Beer_Logo.png)
-![Step 4](./images/04_Image_Search.png)
-![Step 5](./images/05_Beer_Rating_Found.png)
+
+1. Image based search returns the brand and type of beer, along with a link to a beer
+ratings web site
+![Step 3](./images/04_Image_Search.png)
+
+1. Rating data for this beer is scraped from the page and stored, keyed to an ID for
+this particular beer (form of ID should facilitate "fuzzy" search/retrieval)
+![Step 4](./images/05_Beer_Rating_Found.png)
+
