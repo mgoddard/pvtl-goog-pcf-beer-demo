@@ -2,6 +2,8 @@
 
 An idea for a demo of a beer suggester app, based on smart-phone snapshots of beer taps in pubs
 
+_Making the world a better place, one beer recommendation at a time_
+
 ## Components
 * Google Vision API
 * Google Image Search
